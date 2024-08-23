@@ -1,17 +1,17 @@
 {
-  "name": "u1145h-theme-dark",
+  "name": "u1145h-heme-ark",
   "displayName": "u1145h Theme Dark",
-  "description": "A custom dark theme by u1145h inspired by Gruvbox.",
-  "version": "0.3.0",
+  "description": "just a theme bro...",
+  "version": "0.2.0",
   "publisher": "u1145h",
   "repository": {
-    "type": "git",
-    "url": "https://github.com/u1145h/vscode-theme"
+      "type": "git",
+      "url": "https://github.com/u1145h/vscode-theme"
   },
   "keywords": [
     "theme",
     "dark theme",
-    "gruvbox",
+    "dark gruvbox",
     "u1145h",
     "u1145h theme",
     "u1145h dark theme",
@@ -28,7 +28,7 @@
       {
         "label": "u1145h Theme Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/u1145h-theme-dark-color-theme.json"
+        "path": "./themes/u1145h Theme Dark-color-theme.json"
       }
     ]
   }
