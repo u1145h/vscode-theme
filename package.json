@@ -22,7 +22,7 @@
   "engines": {
     "vscode": "^1.92.0"
   },
-  "icon": "icon.png",
+  "icon": "screenshots/logo.png",
   "categories": [
     "Themes"
   ],
