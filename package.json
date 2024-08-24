@@ -1,17 +1,19 @@
 {
   "name": "u1145h-heme-ark",
-  "displayName": "u1145h Theme Dark",
+  "displayName": "Noir Essence",
   "description": "just a theme bro...",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "publisher": "u1145h",
   "repository": {
       "type": "git",
       "url": "https://github.com/u1145h/vscode-theme"
   },
   "keywords": [
+    "Noir Essence",
+    "Noir",
+    "Essence",
     "theme",
     "dark theme",
-    "dark gruvbox",
     "u1145h",
     "u1145h theme",
     "u1145h dark theme",
