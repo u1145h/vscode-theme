@@ -2,7 +2,7 @@
   "name": "u1145h-heme-ark",
   "displayName": "Noir Essence",
   "description": "👋",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "publisher": "u1145h",
   "repository": {
     "type": "git",
@@ -21,16 +21,21 @@
   "engines": {
     "vscode": ">=1.60.0"
   },
-  "icon": "screenshots/logo.pngdadadawdawdawdawdawdawdawd",
+  "icon": "screenshots/logo.png",
   "categories": [
     "Themes"
   ],
   "contributes": {
     "themes": [
       {
-        "label": "Dark Plain",
+        "label": "Noir Essence Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/noir_essence_dark_hard.json"
+        "path": "./themes/noir_essence_dark.json"
+      },
+      {
+        "label": "Noir Essence Light",
+        "uiTheme": "vs-dark",
+        "path": "./themes/noir_essence_light.json"
       }
     ]
   }
