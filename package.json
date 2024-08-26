@@ -16,22 +16,21 @@
     "dark theme",
     "u1145h",
     "u1145h theme",
-    "u1145h dark theme",
-    "ullash roy"
+    "u1145h dark theme"
   ],
   "engines": {
-    "vscode": "^1.92.0"
+    "vscode": ">=1.60.0"
   },
-  "icon": "screenshots/logo.png",
+  "icon": "screenshots/logo.pngdadadawdawdawdawdawdawdawd",
   "categories": [
     "Themes"
   ],
   "contributes": {
     "themes": [
       {
-        "label": "u1145h Theme Dark",
+        "label": "Dark Plain",
         "uiTheme": "vs-dark",
-        "path": "./themes/u1145h Theme Dark-color-theme.json"
+        "path": "./themes/noir_essence_dark_hard.json"
       }
     ]
   }
