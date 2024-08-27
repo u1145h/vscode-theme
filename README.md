@@ -5,5 +5,5 @@
 ![alt text](screenshots/preview-light.png)
 
 ### Todo
-- [ ] Add Light Mode
+- [x] Add Light Mode
 - [ ] Add Other Varients
