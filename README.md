@@ -1,7 +1,7 @@
 <h1 align="center">
   <br>
-  <a href="https://marketplace.visualstudio.com/items?itemName=jdinhlife.gruvbox">
-    <img src="/screenshots/logo.png">
+  <a href="https://marketplace.visualstudio.com/items?itemName=u1145h.u1145h-heme-ark">
+    <img src="/screenshots/logo.png" width="100" height="100">
   </a>
   <br>
   Noir Essence
@@ -17,7 +17,7 @@ A minimalist [Gruvbox](https://github.com/morhetz/gruvbox)-inspired theme with a
 
 Launch _Quick Open_
 
-<img src="https://www.kernel.org/theme/images/logos/favicon.png" width=16 height=16/> Linux</a> `Ctrl+P`  |  <img src="https://developer.apple.com/favicon.ico" width=16 height=16/> macOS</a> `⌘P`  |  <img src="https://www.microsoft.com/favicon.ico" width=16 height=16/> Windows</a> `Ctrl+P`
+Linux</a> `Ctrl+P` macOS</a> `⌘+P` Windows</a> `Ctrl+P`
 
 Paste the following command and press `Enter`:
 ```
