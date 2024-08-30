@@ -32,6 +32,9 @@ ext install u1145h.u1145h-heme-ark
 - Dark
 ![alt text](screenshots/preview-dark.png)
 
+- Dark Border
+![alt text](screenshots/preview-dark-border.png)
+
 - Light
 ![alt text](screenshots/preview-light.png)
 
