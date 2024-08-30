@@ -2,7 +2,7 @@
   "name": "u1145h-heme-ark",
   "displayName": "Noir Essence",
   "description": "👋",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "publisher": "u1145h",
   "repository": {
     "type": "git",
@@ -31,6 +31,11 @@
         "label": "Noir Essence Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/noir_essence_dark.json"
+      },
+      {
+        "label": "Noir Essence Dark Border",
+        "uiTheme": "vs-dark",
+        "path": "./themes/noir_essence_dark_border.json"
       },
       {
         "label": "Noir Essence Light",

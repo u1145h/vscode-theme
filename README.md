@@ -17,7 +17,9 @@ A minimalist [Gruvbox](https://github.com/morhetz/gruvbox)-inspired theme with a
 
 Launch _Quick Open_
 
-Linux</a> `Ctrl+P` macOS</a> `⌘+P` Windows</a> `Ctrl+P`
+- Linux</a> `Ctrl+P`
+- macOS</a> `⌘+P`
+- Windows</a> `Ctrl+P`
 
 Paste the following command and press `Enter`:
 ```
@@ -40,4 +42,4 @@ See [Changelog](CHANGELOG.md).
 
 ### ☑️ Todo
 - [x] Add Light Mode
-- [ ] Add Other Varients
+- [X] Add Other Varients
